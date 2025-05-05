@@ -4,7 +4,7 @@ Submitted by: **Harishitha Mummidivarapu**
 
 **Games** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **10** hours spent in total
+Time spent: **12** hours spent in total
 
 ## Required Features
 
