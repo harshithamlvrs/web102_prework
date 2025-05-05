@@ -24,8 +24,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![Video Walkthrough](https://i.imgur.com/TI4jBkA.gif)
-<img src="https://i.imgur.com/TI4jBkA.gif" title="Video Walkthrough" width="400" alt="Video Walkthrough" />
+
+<img src="[https://i.imgur.com/TI4jBkA.gi](https://i.imgur.com/UxHkYlK.gif)" title="Video Walkthrough" width="400" alt="Video Walkthrough" />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom and Ezgif.com. Used Imgur to convert the video into a link.
@@ -36,6 +36,7 @@ GIF created with Loom and Ezgif.com. Used Imgur to convert the video into a link
 
 ## Notes
 Describe any challenges encountered while building the app.
+
 It has been a while since I worked with HTML, CSS and Javascript. So, I used a lot of time to go through the resources and learn more before completing the challenges.
 
 ## License
